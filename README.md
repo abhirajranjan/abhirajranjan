@@ -1,9 +1,11 @@
-- myself abhiraj ranjan,
-      trying my hands in software development, ML, data sc
+# hello all,
+### Myself, Abhiraj Ranjan, <br>trying my hands in software development, ML and data science.
 
-- skillset :
-       *Python3 
-           advanced gui with custom painting effects with QT
+<br>
 
-- Keen learner
-- 📫 you can reach me  at [gmail](mailto:abhirajranjan456@gmail.com)
+## skillset
+- Python3
+- Py-[Qt](www.qt.io) ( c++ bindings for gui creation ) -- all versions
+
+## contact 📫 
+- reach me at [gmail](mailto:abhirajranjan456@gmail.com)
