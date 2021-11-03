@@ -53,11 +53,6 @@
 </div>
 
 <!--
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=abhirajranjan&hide=contribs,prs&show_icons=true" />
-</div>
--->
-
 <h2 align="center">Some of my projects</h2>
 <div align='center'>
   <a href="https://github.com/abhirajranjan/aloraDE">
@@ -70,6 +65,7 @@
     <img align ='center' src='https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=zerm&show_icons=true&theme=radical&show_owner=true' width="450" />
   </a>
 </div>
+-->
 
 <h2 align="center">Github Stats</h2>
 <div align='center'>
