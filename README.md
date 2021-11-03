@@ -1,6 +1,8 @@
 # hello all,
 ### Myself, Abhiraj Ranjan, <br>trying my hands in software development, ML and data science.
 
+[![Abhiraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/abhirajranjan/abhirajranjan)
+
 <br>
 
 ## skillset
