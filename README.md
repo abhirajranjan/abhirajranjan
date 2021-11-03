@@ -6,5 +6,8 @@
 - Python3
 - Py-[Qt](www.qt.io) ( c++ bindings for gui creation ) -- all versions
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=aloraDE)](https://github.com/abhirajranjan/aloraDE)
+
+
 ## contact 📫 
 - reach me at [gmail](mailto:abhirajranjan456@gmail.com)
