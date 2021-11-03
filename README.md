@@ -6,6 +6,13 @@
 - Python3
 - Py-[Qt](www.qt.io) ( c++ bindings for gui creation ) -- all versions
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=aloraDE)](https://github.com/abhirajranjan/aloraDE)
 
 
