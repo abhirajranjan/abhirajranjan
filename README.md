@@ -1,73 +1,22 @@
-<h1 align='center'>
-  Hello All, I'm Abhiraj Ranjan 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
-</h1>
+# Hi, how are you? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
+😎 I am Software Engineer with a passion to explore new technologies and astronomy<br>🔭 currently exploring distributed backend engineering<br>📮  interested in talking about new technologies? shoot me an [email](mailto:abhirajranjan456@gmail.com) or lets connect on [linkedin](https://linkedin.com/in/abhirajranjan)
 
-<div align='center'>
-  <a href='mailto:abhirajranjan456@gmail.com'>
-    <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />
-  </a>
-  <a href='https://quora.com/abhiraj-ranjan-2'>
-    <img src='https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white' />
-  </a> 
-</div>
 
-<p align='center'>I am passionate self taught programmer 👨‍💻, currently discovering machine learning, who is productive at both day ☀️️ and night ☽, but mostly at day :wink:, but apart from it I have a great interest towards how various things works from our culture, cosmos to linux kernel, consoles, AI powered apps and many more </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirajranjan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@abhirajranjan) 
 
-<h2 align="center">Language and Tools</h2>
-<!--- language --->
-<div align='center'>
-  <a>
-    <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
-  </a>
-</div>
-<!--- OS --->
-<div align='center'>
-  <a>
-    <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white' />
-  </a>
-  <a>
-    <img src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' />
-  </a>
-</div>
-<!--- frameworks --->
-<div align='center'>
-  <a>
-    <img src='https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white' />
-  </a>
-  <a>
-    <img src='https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white' />
-  </a>
-  <a>
-    <img src='https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white' />
-  </a>
-</div>
-<!--- clouds --->
-<div align='center'>
-  <a>
-    <img src='https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white' />
-  </a>
-  <a>
-    <img src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white' />
-  </a>
-</div>
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhirajranjan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhirajranjan&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhirajranjan&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!--
-<h2 align="center">Some of my projects</h2>
-<div align='center'>
-  <a href="https://github.com/abhirajranjan/aloraDE">
-    <img align ='center' src="https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=aloraDE&show_icons=true&theme=radical&show_owner=true" width="450" />
-  </a>
-  <a href="https://github.com/abhirajranjan/alora-share">
-    <img align ='center' src="https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=alora-share&show_icons=true&theme=radical&show_owner=true" width="450" />
-  </a>
-  <a href='https://github.com/abhirajranjan/zerm'>
-    <img align ='center' src='https://github-readme-stats.vercel.app/api/pin/?username=abhirajranjan&repo=zerm&show_icons=true&theme=radical&show_owner=true' width="450" />
-  </a>
-</div>
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abhirajranjan&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-<h2 align="center">Github Stats</h2>
-<div align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=abhirajranjan&hide=contribs,prs&show_icons=true&theme=radical" />
-</div>
+### ✍️ Upskill yourself
+<img src="https://i.imgur.com/mZvJXFq.png" height="400">
+
+---
+[![](https://visitcount.itsvg.in/api?id=abhirajranjan&icon=2&color=0)](https://visitcount.itsvg.in)
