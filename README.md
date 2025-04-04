@@ -1,5 +1,5 @@
 # Hi, how are you? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50">
-😎 I am Software Engineer with a passion to explore new technologies and astronomy<br>🔭 currently exploring distributed backend engineering<br>📮  interested in talking about new technologies? shoot me an [email](mailto:abhirajranjan456@gmail.com) or lets connect on [linkedin](https://linkedin.com/in/abhirajranjan)
+😎 I am Software Engineer with a passion to explore new technologies<br>🔭 currently exploring distributed backend engineering<br>📮  interested in talking about new technologies? shoot me an [email](mailto:abhirajranjan456@gmail.com) or lets connect on [linkedin](https://linkedin.com/in/abhirajranjan)
 
 
 ## 🌐 Socials:
